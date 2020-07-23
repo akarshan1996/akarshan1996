@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+## About me
+
+I'm a Javascript enthusiast who loves to develop web applications, mobile applications and various backend applications using latest tech stack like ReactJs, NodeJs, VueJs, Javascript, Typescript, Ruby etc.
+
+ ----
 <!--
 **akarshan1996/akarshan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
