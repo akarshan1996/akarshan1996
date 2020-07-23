@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hey there, Finally you're here :) \n Let's view my information together. 🐼
+
 
 ## About me
 
