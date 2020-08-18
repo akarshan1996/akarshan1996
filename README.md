@@ -1,12 +1,12 @@
 # About me
 
-![Coding](Images/coding.gif "Coding Life | Javascript CODER")
+![Coding Life | Javascript CODER](https://github.com/akarshan1996/akarshan1996/raw/master/Images/coding.gif?raw=true "Coding")
 ## Hey there👋 I'm a javascript enthusiast. Working on ReactJs, Redux. 
 
 
 ## About me
 
-I'm a Javascript enthusiast who loves to develop web applications, mobile applications and various backend applications using latest tech stack like ReactJs, NodeJs, VueJs, Javascript, Typescript, Ruby etc.
+I'm a Javascript enthusiast who loves to develop web applications and various backend applications using latest tech stack like ReactJs, NodeJs, VueJs, Javascript, Typescript, Ruby etc.
 
 
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Javascript related development tasks and activities.
 - 💬 Ask me about Javascript, ReactJs, Redux , NPM , NodeJs. 
 - 📫 How to reach me: akarshan1996@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Can skate reverse on slops and jump simultaneously.
 -->🙋l✌ 🌝 
 
