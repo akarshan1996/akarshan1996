@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript 🐼
 - 👯 I’m looking to collaborate on Javascript related development tasks and activities.
 - 💬 Ask me about Javascript, ReactJs, Redux , NPM , NodeJs. 
-- 📫 How to reach me: akarshan1996@gmail.com
+- 📫 How to reach me: akarshangupta001@gmail.com@gmail.com
 - ⚡ Fun fact: Can skate reverse on slops and jump simultaneously.
 -->🙋l✌ 🌝 
 
